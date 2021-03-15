@@ -26,7 +26,6 @@ function getDataFromItunes(){
             </div>
             <div class="card-reveal">
               <span class="card-title grey-text text-darken-4">${song.trackCensoredName}<i class="material-icons right"></i></span>
-              // <p>Here is some more information about this product that is only revealed once clicked on.</p>
             </div>
           </div>
           </div>
