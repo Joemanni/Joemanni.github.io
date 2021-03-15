@@ -18,7 +18,7 @@ function getDataFromItunes(){
             <div class="col s4 m4 l4"
             <div class="card">
             <div class="card-image waves-effect waves-block waves-light">
-              <img class="activator" src= "${song.artworkURL100}">
+              <img class="activator" src= "${song.artworkUrl100}">
             </div>
             <div class="card-content">
               <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
