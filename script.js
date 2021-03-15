@@ -2,7 +2,7 @@ let button = document.querySelector("#submit")
 let input = document.querySelector("#search")
 let output = document.querySelector("#output")
 
-button.addEventListener('click', getDataFromItunes() )
+button.addEventListener('click', () => getDataFromItunes())
 
 function getDataFromItunes(){
     let url = 'https://itunes.apple.com/search?term='+input.value
