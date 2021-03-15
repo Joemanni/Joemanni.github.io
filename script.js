@@ -26,6 +26,7 @@ function getDataFromItunes(){
             </div>
             <div class="card-reveal">
               <span class="card-title grey-text text-darken-4">${song.trackCensoredName}<i class="material-icons right"></i></span>
+              <br></br>
             </div>
           </div>
           </div>
