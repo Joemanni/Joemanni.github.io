@@ -2,7 +2,7 @@ let button = document.querySelector("#submit")
 let input = document.querySelector("#search")
 let output = document.querySelector("#output")
 
-button.addEventListener('click', (e) => {
+button.addEventListener('click', () => {
     getDataFromItunes()
 })
 
