@@ -35,6 +35,7 @@ function getDataFromItunes(){
             
             `
         })
+        output.innerHTML = finalHTML
     })
     .catch( error => console.log(error)())
 }
